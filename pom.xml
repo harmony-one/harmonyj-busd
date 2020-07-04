@@ -1,9 +1,9 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>one.harmony</groupId>
-  <artifactId>busd</artifactId>
+  <artifactId>harmonyj-busd</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>busd-harmony</name>
+  <name>harmonyj-busd</name>
   <description>BUSD using hamronyj </description>
   
   <dependencies>
